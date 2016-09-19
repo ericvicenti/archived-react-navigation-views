@@ -1,7 +1,7 @@
 {
   "name": "react-navigation-views",
   "description": "A library of navigation components for React",
-  "version": "0.1.0-rc.1",
+  "version": "0.1.0-rc.2",
   "main": "src/NavigationViews",
   "license": "BSD-3-Clause",
   "peerDependencies": {

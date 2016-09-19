@@ -1,0 +1,26 @@
+{
+  "name": "TabExample",
+  "author": "React Anywhere Developer",
+  "description": "",
+  "version": "0.1.0",
+  "private": true,
+  "reactAnywhere": {
+    "version": "0.1.0-rc.5",
+    "displayName": "Tabs",
+    "bundleIdentifier": "com.tabexample",
+    "uriScheme": "tabexample"
+  },
+  "scripts": {
+    "clean": "react-anywhere clean",
+    "warmup": "react-anywhere warmup",
+    "web": "react-anywhere web",
+    "ios": "react-anywhere ios",
+    "android": "react-anywhere android",
+    "native": "react-anywhere native",
+    "prepublish": "react-anywhere clean"
+  },
+  "dependencies": {
+    "react": "15.3.1",
+    "react-primitives": "^15.3.1"
+  }
+}
